@@ -1,4 +1,4 @@
-# Hi, I'm Elia Korsah 👋🇬🇭
+# Hi, I'm Elia Korsah 👋🌍
 
 AI-Powered SaaS Developer based in Accra, Ghana.
 Building intelligent products for businesses globally.
