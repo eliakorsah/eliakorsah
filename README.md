@@ -29,5 +29,3 @@ Building intelligent products for businesses globally.
 - 🔗 [LinkedIn](https://linkedin.com/in/elia-korsah-449616385)
 - 🌐 [Lytrix Consult](https://lytrixconsult.com)
 
-## 📊 GitHub Stats
-![Elia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliakorsah&show_icons=true&theme=dark)
